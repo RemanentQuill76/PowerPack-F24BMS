@@ -1,0 +1,15 @@
+﻿Version Log
+
+
+Ver1 
+This is the initial version with a basic setup that only reads temperature, I do not believe that it works.
+
+
+Ver2 
+This version should work and includes the ability to blink an LED when the temperature is too hot for the battery. Humidity reading is included but does not output to a device to inform the user. When implementing this code, you will need to change the pin assignments and the port USB is connected to. Also ensure that you have proper libraries installed:
+* “DHT Add-On Library for Arduino” by Eric Prandovsky
+* “MATLAB Support Package for Arduino Hardware” version 21.1.2 by MathWorks
+
+
+Ver3
+This version is a work in progress.
