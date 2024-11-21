@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+arduino = "0.1.0"
+dht_embedded = "0.4"
+
